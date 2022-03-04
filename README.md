@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grungalo
-- 👀 I’m interested in ... game development in unity, building websites
+- 👀 I’m interested in ... game development in unity, building websites, random coding
 - 🌱 I’m currently learning ... c#, javascript, html, css, SQL
 - 📫 How to reach me ... elliotchstronge@gmail.com
 
